@@ -159,11 +159,11 @@ Api-Testing/
 └── README.md
 ```
 
-> **Note:** The environment file is not committed to this repository as it contains credential values. Collection variables are used for runtime data (`orderId`, `customerName`) and the API key is managed separately.
+> **Note:** Collection variables are used for runtime data (`orderId`, `customerName`) and the API key is managed separately.
 
 ---
 
 ## Author
 
-Haris Yousaf — SQA Engineer  
+Haris Bin Yousaf — SQA Engineer  
 [LinkedIn](https://www.linkedin.com/in/haris-yousaf-dev) | [GitHub](https://github.com/haris-yousaf)
