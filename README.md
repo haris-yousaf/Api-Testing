@@ -19,7 +19,9 @@ This project was built as part of the **Postman API Test Automation** course. Up
 | **Awarded** | June 5, 2026 |
 | **Verify** | [Parchment Badge](https://badges.parchment.com/public/assertions/BtaiFSaxQhmyzLst4hOEKw) *(copy and paste link if it does not open directly)* |
 
-![Postman API Test Automation Badge](./assets/postman-api-test-automation-badge.png.png)
+![Postman API Test Automation Badge](./assets/postman-api-test-automation-badge.png)
+
+![Postman API Test Automation Certificate](./assets/postman-api-test-automation-certificate.png)
 
 ---
 
@@ -142,13 +144,18 @@ Tests execute automatically on every push to the `main` branch via GitHub Action
 Api-Testing/
 ├── .github/
 │   └── workflows/
-│       └── postman.yml          # CI/CD pipeline definition
-├── postman/
-│   └── collection.json          # Postman collection (7 requests, 17 pm.test assertions)
+│       └── postman.yml                              # CI/CD pipeline definition
+├── assets/
+│   ├── postman-api-test-automation-badge.png        # Postman API Test Automation badge
+│   ├── postman-api-test-automation-certificate.png  # Certificate (image, renders in README)
+│   └── postman-api-test-automation-certificate.pdf  # Certificate (original PDF)
 ├── docs/
-│   └── test-cases.md            # Full test case documentation
+│   └── test-cases.md                                # Full test case documentation
+├── postman/
+│   ├── collection.json                              # Postman collection (7 requests, 17 pm.test assertions)
+│   └── environment.json                             # Environment variables (credential values cleared)
 ├── reports/
-│   └── test-report.html         # Sample Newman HTMLextra report
+│   └── test-report.html                             # Sample Newman HTMLextra report
 └── README.md
 ```
 
