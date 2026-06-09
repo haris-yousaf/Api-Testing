@@ -1,0 +1,16 @@
+{
+	"id": "ccfe3e85-34e8-472d-ba97-cb3d31d1797e",
+	"name": "Haris Api Automation Mock",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "https://dff147f9-b276-4a6e-a0c7-ea3adf3ad785.mock.pstmn.io",
+			"type": "text",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-06-09T06:37:18.230Z",
+	"_postman_exported_using": "Postman/12.14.2-260609-0422"
+}
