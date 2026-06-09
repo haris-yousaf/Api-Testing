@@ -144,4 +144,4 @@ Api-Testing/
 ## Author
 
 Haris Yousaf — SQA Engineer  
-[LinkedIn](your-linkedin-url) | [GitHub](https://github.com/haris-yousaf)
+[LinkedIn](https://www.linkedin.com/in/haris-yousaf-dev) | [GitHub](https://github.com/haris-yousaf)
