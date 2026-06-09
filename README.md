@@ -8,6 +8,21 @@ This project contains a fully automated test suite for the **Valentino Artisan C
 
 ---
 
+## Certification
+
+This project was built as part of the **Postman API Test Automation** course. Upon completion, all assignments were verified and the following credential was awarded by Postman.
+
+| | |
+|---|---|
+| **Credential** | API Test Automation |
+| **Issuer** | Postman |
+| **Awarded** | June 5, 2026 |
+| **Verify** | [Parchment Badge](https://badges.parchment.com/public/assertions/BtaiFSaxQhmyzLst4hOEKw) |
+
+![Postman API Test Automation Badge](./assets/badge.png)
+
+---
+
 ## API Under Test
 
 | Field | Details |
