@@ -17,7 +17,7 @@ This project was built as part of the **Postman API Test Automation** course. Up
 | **Credential** | API Test Automation |
 | **Issuer** | Postman |
 | **Awarded** | June 5, 2026 |
-| **Verify** | [Parchment Badge](https://badges.parchment.com/public/assertions/BtaiFSaxQhmyzLst4hOEKw?identity__email=harisy260@gmail.com) |
+| **Verify** | [Parchment Badge](https://badges.parchment.com/public/assertions/BtaiFSaxQhmyzLst4hOEKw) *(copy and paste link if it does not open directly)* |
 
 ![Postman API Test Automation Badge](./assets/postman-api-test-automation-badge.png.png)
 
